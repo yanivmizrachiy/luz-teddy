@@ -1,12 +1,12 @@
 # מודל פרסום נוכחי — לוז בית הספר
 
-עודכן: 20260516-215053
+עודכן: 20260517-060825
 
 ## מקור אמת
 
-yanivmizrachiy/luz-teddy
+`yanivmizrachiy/luz-teddy`
 
-## כתובת ציבורית למורים — לא משתנה
+## כתובת ציבורית למורים
 
 https://yanivmizrachiy.github.io/www/luz-teddy/clean.html
 
@@ -16,7 +16,12 @@ https://yanivmizrachiy.github.io/www/luz-teddy/clean.html
 
 ## איך עובדים
 
-1. עורכים את הלוז בריפו yanivmizrachiy/luz-teddy.
-2. מפרסמים בזהירות אל yanivmizrachiy/www/luz-teddy.
+1. עורכים את הלוז בריפו `yanivmizrachiy/luz-teddy`.
+2. מפרסמים בזהירות אל `yanivmizrachiy/www/luz-teddy`.
 3. הקישור הישן ממשיך לעבוד למורים.
 4. לא מוחקים שום דבר בלי אישור מפורש.
+
+## הפרדה
+
+- לוז בית הספר נמצא כאן.
+- SmartCalendar / יומן Google אישי נמצא בריפו `yanivmizrachiy/smartcalendar-titan`.
